@@ -68,7 +68,7 @@ spec:
 
       - name: nginx-container
 
-        image: chrisbuffin/heelsie-nginx:latest
+        image: chrisbuffin/flask-nginx:latest
 
         ports:
 
